@@ -1,0 +1,24 @@
+{
+  "name": "openmrs-contrib-radar",
+  "version": "1.0.0",
+  "description": "OpenMRS Technology Radar",
+  "main": "radar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psbrandt/openmrs-contrib-radar.git"
+  },
+  "keywords": [
+    "openmrs",
+    "technology",
+    "radar"
+  ],
+  "author": "OpenMRS <pascal@openmrs.org> (http://openmrs.org)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/psbrandt/openmrs-contrib-radar/issues"
+  },
+  "homepage": "https://github.com/psbrandt/openmrs-contrib-radar#readme"
+}
